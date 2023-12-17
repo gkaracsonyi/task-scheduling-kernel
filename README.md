@@ -10,3 +10,5 @@ I'm building an advanced task management utility because I'm done with Google Ta
 - email/push notifications
 
 Depending on how this turns out, I would also like to create an iOS app, as I would like to become familiar with Swift.
+
+THIS IS A TEST
